@@ -1,0 +1,15 @@
+D:\AEU\C#_Programming\Coffee\bin\Debug\Coffee.exe.config
+D:\AEU\C#_Programming\Coffee\bin\Debug\Coffee.exe
+D:\AEU\C#_Programming\Coffee\bin\Debug\Coffee.pdb
+D:\AEU\C#_Programming\Coffee\obj\Debug\Coffee.csproj.AssemblyReference.cache
+D:\AEU\C#_Programming\Coffee\obj\Debug\Coffee.Form1.resources
+D:\AEU\C#_Programming\Coffee\obj\Debug\Coffee.Properties.Resources.resources
+D:\AEU\C#_Programming\Coffee\obj\Debug\Coffee.csproj.GenerateResource.cache
+D:\AEU\C#_Programming\Coffee\obj\Debug\Coffee.csproj.CoreCompileInputs.cache
+D:\AEU\C#_Programming\Coffee\obj\Debug\Coffee.exe
+D:\AEU\C#_Programming\Coffee\obj\Debug\Coffee.pdb
+D:\AEU\C#_Programming\Coffee\bin\Debug\Guna.UI2.dll
+D:\AEU\C#_Programming\Coffee\obj\Debug\Coffee.csproj.CopyComplete
+D:\AEU\C#_Programming\Coffee\obj\Debug\Coffee.Forms.MenuFrm.resources
+D:\AEU\C#_Programming\Coffee\obj\Debug\Coffee.Forms.AllProductFrm.resources
+D:\AEU\C#_Programming\Coffee\obj\Debug\Coffee.Forms.OrderFrm.resources
